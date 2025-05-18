@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A 3rd-year Computer Science student passionate about AI, Web Development & Problem Solving</h3>
+<h1 align="center">Hi 👋, I'm Darpit Parikh</h1>
+<h3 align="center">A Final year Computer Science student passionate about AI, ML, Web Development & Problem Solving</h3>
 
 ---
 
@@ -7,7 +7,7 @@
 - 🧠 Recently completed a project on **AI Resume Screening and Ranking**  
 - 🌱 Currently learning **Full Stack Development** and **DSA for placements**
 - 🤝 I’m open to collaborating on **AI/ML, Python, or Web Dev projects**
-- 📫 How to reach me: [your.email@example.com]
+- 📫 How to reach me: [darpitparikh2894@gmail.com]
 - ⚡ Fun fact: I love turning coffee ☕ into code 💻
 
 ---
