@@ -6,6 +6,8 @@
 - 🔭 I’m currently working on **House Price Prediction** using ML  
 - 🧠 Recently completed a project on **AI Resume Screening and Ranking**  
 - 🌱 Currently learning **Full Stack Development** and **DSA for placements**
+- 📊 Built interactive dashboards using Power BI for insightful data visualizations
+- 💸 Developed a Smart Expense Tracker web app to monitor and categorize spending efficiently
 - 🤝 I’m open to collaborating on **AI/ML, Python, or Web Dev projects**
 - 📫 How to reach me: [darpitparikh2894@gmail.com]
 - ⚡ Fun fact: I love turning coffee ☕ into code 💻
