@@ -9,7 +9,7 @@
 - 📊 Built interactive dashboards using Power BI for insightful data visualizations
 - 💸 Developed a Smart Expense Tracker web app to monitor and categorize spending efficiently
 - 🤝 I’m open to collaborating on **AI/ML, Python, or Web Dev projects**
-- 📫 How to reach me: [Linkedin]<a href="https://www.linkedin.com/in/darpit-parikh-376734313" target="_blank">
+- 📫 How to reach me: [Linkedin]<a href="https://www.linkedin.com/in/darpit-parikh-376734313" target="_blank"></a>
 - ⚡ Fun fact: I love turning coffee ☕ into code 💻
 
 ---
