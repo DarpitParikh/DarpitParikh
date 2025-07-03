@@ -3,7 +3,7 @@
 
 ---
 
-- 🔭 I’m currently working on **House Price Prediction** using ML  
+- 🔭 I’m currently working on **Intrusion Detection System** using ML  
 - 🧠 Recently completed a project on **AI Resume Screening and Ranking**  
 - 🌱 Currently learning **Full Stack Development** and **DSA for placements**
 - 📊 Built interactive dashboards using Power BI for insightful data visualizations
